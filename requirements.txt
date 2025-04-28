@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+pandas
+plotly
+python-dotenv
+serpapi
+langchain-core
+openai
